@@ -1,4 +1,4 @@
-# Db2 Version 11.1 Features amd Functions
+# Db2 Version 11.1 Features and Functions
 This repository contains examples of new functionality found in Db2 11.1. In order to use these examples you must have:
 * Db2 installed locally or on the cloud
 * Jupyter Notebooks 
