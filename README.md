@@ -1,4 +1,4 @@
-# Db2 Jupyter Notebook Extensions
+# Db2 Version 11.1 Features amd Functions
 A Jupyter notebook and magic functions to demonstrate Db2 LUW 11 features.
 
 This code is imported as a Jupyter notebook extension in any notebooks you create with Db2 code in it. Place the following line of code in any notebook that you want to use these commands with:
